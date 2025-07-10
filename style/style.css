@@ -141,9 +141,38 @@ div .persenteg-lite h4{
     margin-bottom: 24px;
     border: none;
 } 
-
+  
 .button4{
     width: 100%;
     height: 40px;
     padding: 0 55px;
 }
+/* footer */
+.bg-w{
+    background-color: white;
+    width: 100%;
+    height: 355px;
+}
+.footer-section{
+    text-align: center;
+    padding-top: 50px;
+}
+.footer-lite{
+    width: 400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.footer-dis{
+    color: rgba(0, 0, 0, 0.411);
+}
+ div h3 a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.397);
+
+ }
+ .footer-tital{
+    font-size: 100px;
+    margin: 20px;
+ }
