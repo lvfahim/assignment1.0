@@ -19,11 +19,11 @@
     color: white; 
     border: none;
     cursor: pointer;
+    border-radius: 5px;
 }
 .button1{
     width: 82px;
     height: 40px;
-    border-radius: 5px;
 }
 .text-center{
     display: flex;
@@ -42,10 +42,40 @@
 .button2{
     width: 112px;
     height: 40px;
-    border-radius: 5px;
-    border: none;
 }
 div .text h1{
  font-size: 50px;
  font-weight: bold;
+}
+/* <!--New verson--> */
+
+.webflowverson{
+    width: 1140px;
+    height: 328px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.webflowverson-lite{
+   height: 100%;
+   width: 400px;
+}
+.webflowverson-lite div h1{
+    color: #252432;
+    font-size: 42px;
+    font-weight: bold;
+}
+.webflowverson-lite div p{
+    color: #252432;
+    font-size: 24px;
+    font-weight:400;
+}
+.button3{
+    width: 172px;
+    height: 40px;
+}
+.webflowverson-img{
+    height: 328px;
+    width: 403px;
+    border-radius: 40px;
 }
