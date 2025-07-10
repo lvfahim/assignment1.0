@@ -79,3 +79,35 @@ div .text h1{
     width: 403px;
     border-radius: 40px;
 }
+/* <!--Wedside Persenteg start--> */
+
+.persenteg-bg{
+    background-color: #4d47ff2a;
+    height: 306px;
+    width: 1140px;
+    margin: 100px auto;
+    border-radius: 10px;
+
+}
+.persenteg-tital{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+}
+.persenteg-dis{
+ display: flex;
+ justify-content: space-around;
+}
+div .persenteg-lite h1{
+ font-size: 80px;
+ font-weight: bold;
+ margin: 0;
+ color: #4E47FF;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serifgi;
+}
+div .persenteg-lite h4{
+    font-size: 20px;
+    margin: 10px;
+    color: #0000007e;
+}
