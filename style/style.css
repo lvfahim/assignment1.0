@@ -47,6 +47,11 @@ div .text h1{
  font-size: 50px;
  font-weight: bold;
 }
+  /* Body */
+  .bg{
+    background-color: #4d47ff18;
+  }
+
 /* <!--New verson--> */
 
 .webflowverson{
