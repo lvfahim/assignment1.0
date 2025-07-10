@@ -1,0 +1,51 @@
+.hero-bg{
+    background-image: url(../Assets/Hero-bg.png);
+    height: 698px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+.banar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.banar-tital{
+    color: #4E47FF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button{
+    background-color:#4E47FF;
+    color: white; 
+    border: none;
+    cursor: pointer;
+}
+.button1{
+    width: 82px;
+    height: 40px;
+    border-radius: 5px;
+}
+.text-center{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 158px;
+}
+.text{
+    height: 237px;
+    width: 905px;
+    color: #252432;
+
+
+}
+.button2{
+    width: 112px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+}
+div .text h1{
+ font-size: 50px;
+ font-weight: bold;
+}
