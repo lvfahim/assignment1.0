@@ -21,6 +21,9 @@
     cursor: pointer;
     border-radius: 5px;
 }
+button:hover{
+    background-color: lightskyblue;
+}
 .button1{
     width: 82px;
     height: 40px;
@@ -175,4 +178,7 @@ div .persenteg-lite h4{
  .footer-tital{
     font-size: 100px;
     margin: 20px;
+ }
+ .button4:hover{
+  background-color: deepskyblue;
  }
